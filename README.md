@@ -7,5 +7,6 @@ It is a stylish website which allows the user to write blogs and save them.
 ![image](https://user-images.githubusercontent.com/81105350/134469832-992ddc62-2f91-4a24-bc4d-083e25e184f5.png)
 
 
-![image](https://user-images.githubusercontent.com/81105350/134469904-6f2dbc74-0fd8-459e-a1fd-9dd60d58099b.png)
+![image](https://user-images.githubusercontent.com/81105350/134469993-83f0cf56-dae9-4009-a7e2-c124116b86ba.png)
+
 
